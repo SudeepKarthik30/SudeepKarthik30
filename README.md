@@ -1,6 +1,7 @@
 # Karthik T
 
 **GenAI / LLM Engineer · RAG Systems · Tool-Calling Agents · LLM Evaluation**
+
 Final-year B.Tech CSE student building GenAI applications end to end: hybrid RAG with citation validation, tool-calling
 agents with regression evaluation, and MCP-based multi-agent orchestration, backed by measurable evaluation metrics.
 
