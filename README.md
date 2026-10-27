@@ -1,7 +1,8 @@
 # Karthik T
 
 **GenAI / LLM Engineer · RAG Systems · Tool-Calling Agents · LLM Evaluation**
-Final-year B.Tech CSE at IIIT Manipur (2027). I build LLM applications in Python and measure whether they actually work.
+Final-year B.Tech CSE student building GenAI applications end to end: hybrid RAG with citation validation, tool-calling
+agents with regression evaluation, and MCP-based multi-agent orchestration, backed by measurable evaluation metrics.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-profile-/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thirkarthik30@gmail.com)
